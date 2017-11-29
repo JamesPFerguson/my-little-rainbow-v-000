@@ -8,7 +8,7 @@ div {
   border-left-color: transparent; /* these remove the color from the left side */
   border-right-color: transparent; /* the right side */
   border-bottom-color: transparent; /* and the bottom of the circle */
-
+}
   #red {
       color: #f00;
   }
@@ -38,4 +38,3 @@ div {
     #violet {
       border-top-color: #d300c9
     }
-  }
